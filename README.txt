@@ -1,0 +1,1 @@
+To będzie paczka aplikacji z logowaniem przez Supabase i miejscem do wpisywania danych z dysku.
